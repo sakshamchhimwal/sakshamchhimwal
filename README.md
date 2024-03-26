@@ -25,7 +25,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/saksham-chhimwal-838baa25a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saksham-chhimwal-838baa25a" height="30" width="40" /></a>
 <a href="https://instagram.com/sakshamchhimwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sakshamchhimwal" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/sakshamchhimwal2410" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sakshamchhimwal2410" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/sakshamchhimwal2410" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="saksham2410" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sakshamchhimwal2410" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sakshamchhimwal2410" height="30" width="40" /></a>
 </p>
 
