@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshamchhimwal&label=Profile%20views&color=0e75b6&style=flat" alt="sakshamchhimwal" /> </p>
 
-- 🔭 I’m currently working with **Pagaar.io**
 
 - 🌱 I’m currently learning **GoLang**
 
