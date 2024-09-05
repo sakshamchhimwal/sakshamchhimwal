@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **sakshamchhimwal2410@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1mlCwt1x5mlNd5raUNE8YCsoxYdwB7Yug/view?usp=sharing](https://drive.google.com/file/d/1mlCwt1x5mlNd5raUNE8YCsoxYdwB7Yug/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/12zlrGWXAdF1t_tai-yEHV298NjUbhJ-2/view?usp=drive_link](https://drive.google.com/file/d/12zlrGWXAdF1t_tai-yEHV298NjUbhJ-2/view?usp=drive_link)
 
 - ⚡ Fun fact **Pneumonoultramicoscoipicslicovalcanicaniosis. I make a lot of speling errros.**
 
